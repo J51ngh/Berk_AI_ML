@@ -29,9 +29,17 @@ For the currently assessment, following methods were used:
 
 #### Results
 What did your research find?
+As the current data is highly biased, applying OneClassSVM method and similar other Anomaly Dectection methods require further investigation.
+Although, OneClassSVM obtained 0.7645 accuracy score. However,due to biased data, LocalOutlinerFactor failed to execute the analysis. 
 
 #### Next steps
 What suggestions do you have for next steps?
+
+Next Steps: 
+
+split the data based on the pipeline function.
+perahsp explore methods to generate synthetic data.
+use of principal component analysis to optimise analysis of the data. 
 
 #### Outline of project
 
